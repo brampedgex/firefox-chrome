@@ -1,0 +1,5 @@
+/* Hides the extension box if it's nightTab */
+#identity-box.extensionPage[pageproxystate="valid"] #identity-icon-box:has(> #identity-icon[tooltiptext="Loaded by extension: nightTab"]) {
+    display: none !important;
+}
+

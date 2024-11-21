@@ -1,0 +1,5 @@
+@-moz-document url(moz-extension://0e3db176-05a1-4010-84b6-ae8b939ea9ce/index.html) {
+    :root {
+        background: black !important;
+    }
+}
